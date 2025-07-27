@@ -2,8 +2,6 @@
 
 A comprehensive web-based analytics dashboard for shopping trends data analysis, built with Flask and interactive visualizations using Plotly.
 
-![Dashboard Preview](static/dashboard-preview.png)
-
 ## 📊 Overview
 
 This project provides an interactive dashboard to analyze shopping trends and customer behavior patterns. It features modern UI design, multiple chart types, and key performance indicators (KPIs) to help understand customer purchasing patterns, seasonal trends, and demographic insights.
